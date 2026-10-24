@@ -15,3 +15,5 @@ router.use("/donation", donationRoutes);
 router.use("/news", newsRoutes);
 router.use("/events", eventRoutes);
 
+export default router;
+
